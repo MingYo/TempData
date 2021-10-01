@@ -1,0 +1,28 @@
+{
+    "Root": [
+        {
+            "CarFactory": "T",
+            "CarModel": [
+                "T1",
+                "T2",
+                "T3"
+            ]
+        },
+        {
+            "CarFactory": "N",
+            "CarModel": [
+                "N1",
+                "N2",
+                "N3"
+            ]
+        },
+        {
+            "CarFactory": "B",
+            "CarModel": [
+                "B1",
+                "B2",
+                "B3"
+            ]
+        }
+    ]
+}
